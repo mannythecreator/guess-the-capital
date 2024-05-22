@@ -12,6 +12,9 @@ A simple serverless web app using Docker, IBM Cloud, IBM Code Engine, and GitHub
 
 <img width="935" alt="image" src="https://github.com/mannythecreator/guess-the-capital/assets/60325078/a94d6300-8266-4e30-aa3a-851e21d199bf">
 
+![image](https://github.com/mannythecreator/guess-the-capital/assets/60325078/bf463d11-e60d-45d6-86e9-2a0a6ef347ff)
+
+
 ## About
 The goal of this project was to use industry software development tools to gain experience in cloud development and containerization using Docker and IBM Cloud. Code including HTML, CSS, JavaScript, and other files from the GitHub repository are provided by IBM.
 
